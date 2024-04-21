@@ -1,5 +1,3 @@
-# Content for the README file
-readme_content = """\
 # Housing Dataset Analysis
 
 This Jupyter notebook, named "Housing.ipynb", contains Python code for analyzing a housing dataset. The dataset is loaded from an Excel file named "Housing.xlsx". The analysis includes visualization using histograms to explore the distribution of house prices and the number of stories in the dataset.
